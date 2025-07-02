@@ -2,7 +2,8 @@
 
 ## Subfolders
 - **credit scoring**: Code and resources for credit scoring project.
-- **Autism Prediction Model**: Code and resources for autism prediction model.
+- **Autism Prediction Model**: Code and resources for autism prediction project.
+- **Heart Disease Prediction Model**: Code and resources for heart disease prediction project.
 
 ## Description
 This repository contains the work completed during the CodeAlpha internship program.
